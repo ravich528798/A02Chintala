@@ -1,5 +1,3 @@
-# A02Chintala
-
 # 44-563 M04 Learning JavaScript and JQuery with User Interaction
 
 Learning JavaScript and jQuery by interacting with a user. 
